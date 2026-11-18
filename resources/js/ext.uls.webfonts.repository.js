@@ -11,6 +11,10 @@
 			"system",
 			"OpenDyslexic"
 		],
+		"afb": [
+			"system",
+			"Amiri"
+		],
 		"akk": [
 			"Akkadian"
 		],
